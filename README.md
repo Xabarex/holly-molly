@@ -26,4 +26,4 @@ namespace Slonie
     }
 }
 
-** http://prntscr.com/ldxgm0
+image::http://prntscr.com/ldxgm0
