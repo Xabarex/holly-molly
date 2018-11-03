@@ -26,5 +26,5 @@ namespace Slonie
     }
 }
 
-![screenshot_1](https://user-images.githubusercontent.com/33806899/47953365-f2f6cf00-df7c-11e8-8791-e7159111c15c.png)
+![screenshot_1](https://github.com/Xabarex/holly-molly/blob/master/Screenshot_1.png?raw=true)
 
