@@ -26,4 +26,4 @@ namespace Slonie
     }
 }
 
-!(https://zapodaj.net/74c1fed6fd48b.png)
+!(https://github.com/Xabarex/holly-molly/blob/master/Screenshot_1.png)
