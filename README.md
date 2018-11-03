@@ -26,4 +26,4 @@ namespace Slonie
     }
 }
 
-image::http://prntscr.com/ldxgm0
+image::https://zapodaj.net/74c1fed6fd48b.png.
